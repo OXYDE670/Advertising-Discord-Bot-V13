@@ -1,0 +1,23 @@
+{
+  "name": "advertising-discord-bot",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nzosim/Advertising-Discord-Bot.git"
+  },
+  "author": "fait par Nzosim#0379 refait par OXYDE#0001 pour la v13",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nzosim/Advertising-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/Nzosim/Advertising-Discord-Bot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}

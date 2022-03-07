@@ -1,0 +1,7 @@
+{
+"token": "Mettez votre token",
+"pub_channel": [940279797920202792, 949715374415441961, 927946673550917784, 926551846712127538],
+"message": ["test", "test", "test"],
+"bot_id" : "BOT_ID",
+"image" : "Mettez un lien d'image pour l'embed"
+}
